@@ -1,5 +1,5 @@
 # Fraud Detection
-	Developed a decision tree model using Python with SQL integration to identify key factors and predict fraudulent CD accounts, achieving an AUC score (accuracy) of 0.878; Built an Excel dashboard connected to SQL database to display key metrics like fraud rate and top predictors dynamically
+Developed a decision tree model using Python with SQL integration to identify key factors and predict fraudulent CD accounts, achieving an AUC score (accuracy) of 0.878; Built an Excel dashboard connected to SQL database to display key metrics like fraud rate and top predictors dynamically
 
 The project answers:
 1.	Is credit score predictive of fraud or not? 
